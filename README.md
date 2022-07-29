@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi, there! 🙌
 
-<!--
-**wangsin/wangsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+ ___       __   ________  ________   ________  ________  ___  ________      
+|\  \     |\  \|\   __  \|\   ___  \|\   ____\|\   ____\|\  \|\   ___  \    
+\ \  \    \ \  \ \  \|\  \ \  \\ \  \ \  \___|\ \  \___|\ \  \ \  \\ \  \   
+ \ \  \  __\ \  \ \   __  \ \  \\ \  \ \  \  __\ \_____  \ \  \ \  \\ \  \  
+  \ \  \|\__\_\  \ \  \ \  \ \  \\ \  \ \  \|\  \|____|\  \ \  \ \  \\ \  \ 
+   \ \____________\ \__\ \__\ \__\\ \__\ \_______\____\_\  \ \__\ \__\\ \__\
+    \|____________|\|__|\|__|\|__| \|__|\|_______|\_________\|__|\|__| \|__|
+                                                 \|_________|               
+                                                                            
+                                                                            
+```
+                                                                            
 
-Here are some ideas to get you started:
+🐯 I'm wangsin, a tiger who love coding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Server-side development work, mainly using Golang and Java.
+
+🏬 Woring at @didi, senoir software engineer.
+
+🦀 Learning Rust and Javascript.
